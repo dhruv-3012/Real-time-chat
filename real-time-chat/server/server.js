@@ -12,7 +12,7 @@ const server = http.createServer(app);
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://real-time-chat-kappa-six.vercel.app", 
+  "https://real-time-chat-omega-livid.vercel.app",
 ];
 
 // Middleware
