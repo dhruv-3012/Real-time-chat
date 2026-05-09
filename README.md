@@ -157,7 +157,14 @@ Real-time-chat/
 
 ## 📸 Screenshots
 
-> Login Page, Chat Window, and Emoji Picker
+> Login Page
+><img width="1913" height="828" alt="Image" src="https://github.com/user-attachments/assets/1fd6bace-a07e-4800-9465-4986a6c31ac9" />
+> Register Page
+> <img width="1893" height="822" alt="Image" src="https://github.com/user-attachments/assets/118de1f3-cce3-48cb-97a8-4c8d0288a84a" />
+> Chat Window
+> <img width="1911" height="820" alt="Image" src="https://github.com/user-attachments/assets/372b19d9-2773-4f79-9192-19522038ad57" />
+> Emoji Picker
+> <img width="1888" height="825" alt="Image" src="https://github.com/user-attachments/assets/6196b869-a6b8-4e50-bf43-f72f5e24dea6" />
 > 
 
 ---
