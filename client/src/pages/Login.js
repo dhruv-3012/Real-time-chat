@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Login = () => {
   const [formData, setFormData] = useState({ email: '', password: '' });
-  const [focused, setFocused] = useState('');
+  
   const { login } = useAuth();
 
   const handleSubmit = async (e) => {
