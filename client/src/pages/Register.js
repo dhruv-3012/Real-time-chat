@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import axios from '../utils/axios'; // ✅ use custom axios instance
 import { Link, useNavigate } from 'react-router-dom';
 
 const Register = () => {
@@ -11,7 +11,7 @@ const Register = () => {
     e.preventDefault();
     setError("");
     try {
-      const res = await axios.post('http://localhost:5000/api/auth/register', formData);
+      const res = await axios.post('/api/auth/register', formData); // ✅ relative path
       if (res.data.msg === "User created") {
         alert("Registration Successful! Please login.");
         navigate('/login');
